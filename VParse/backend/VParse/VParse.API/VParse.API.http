@@ -1,0 +1,6 @@
+@VParse.API_HostAddress = http://localhost:5043
+
+GET {{VParse.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
